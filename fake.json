@@ -4,7 +4,7 @@
 	"admob_inter":"ca-app-pub-8697844878482426/3066648206",
 
 
-	"APP_KEY": "1544db4e9",
+	"APP_KEY": "163310a25",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -16,6 +16,6 @@
 
 
 
-	       "whichAds": 0
+	       "whichAds": 1
 
 }
